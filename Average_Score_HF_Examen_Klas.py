@@ -51,10 +51,3 @@ def tekort_compensatie_punten():
             
 if __name__ == '__main__':
      main()
-
-
-
-    
-    
-    
-    
