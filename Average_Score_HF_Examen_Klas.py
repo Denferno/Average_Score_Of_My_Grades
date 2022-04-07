@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import re
 import school_creds
 
 loginurl = 'https://leerlingenhf.trinitascollege.nl/Login?passAction=login&path=/'
